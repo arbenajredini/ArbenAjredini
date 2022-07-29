@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ArbenAjredini
-- 👀 I’m interested in Mathematics
-- 🌱 I’m currently learning Python, R
-- 💞️ I’m looking to collaborate on LaTeX
+
 - 📫 How to reach me arbenajredini55@gmail.com
 
 <!---
