@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArbenAjredini
+- 👋 Hi, I’m @arbenajredini
 
 - 📫 How to reach me arbenajredini55@gmail.com
 
